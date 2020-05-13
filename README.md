@@ -13,7 +13,7 @@ I used to make http requests for token validation through my microservices and w
 ### Installation
 This project does not need database as I'm using hard coded data in arrays to replace it. <br />
 You can run this project on your machine by running this command below on your terminal:<br/>
-`git clone https://github.com/apollo-federation-example <YOUR_PROJECT_NAME>`<br/>
+`git clone https://github.com/apollo-federation-example.git <YOUR_PROJECT_NAME>`<br/>
 Or just download this repository on your local machine.
 
 ###### The authentication part
