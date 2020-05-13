@@ -1,5 +1,7 @@
 # Apollo Federation: Microservices with authentication
 
+A simple blog api with authentication made using apollo federation as an api gateway for the microservices. <br />
+
 This project has been made for learning purposes. I'll need to work on a personnal
 project based on microservices using `graphql` and `apollo`. <br />
 It is a simple introduction to `Apollo Federation`. <br />
