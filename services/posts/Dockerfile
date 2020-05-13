@@ -1,14 +1,13 @@
 # Pull base image.
 FROM node:latest
 
-COPY . /src/
+COPY . /src
 
-# Install app dependencies
 WORKDIR /src
 
 RUN npm install
 
-# Binds to port 4001
-EXPOSE  4001
+# Binds to port 4002
+EXPOSE  4002
 
 CMD npm run dev

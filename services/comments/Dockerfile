@@ -1,3 +1,4 @@
+
 # Pull base image.
 FROM node:latest
 
@@ -8,7 +9,7 @@ WORKDIR /src
 
 RUN npm install
 
-# Binds to port 4001
-EXPOSE  4001
+# Binds to port 4003
+EXPOSE  4003
 
 CMD npm run dev
