@@ -13,6 +13,6 @@
   "dependencies": {
     "@apollo/gateway": "^0.16.0",
     "apollo-server": "^2.13.1",
-    "jsonwebtoken": "^8.5.1"
+    "jsonwebtoken": "^9.0.0"
   }
 }
